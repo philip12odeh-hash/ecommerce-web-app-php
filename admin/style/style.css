@@ -1,0 +1,422 @@
+*{box-sizing:border-box;}
+body{
+   background-color:white;
+}
+*{
+  box-sizing: border-box;
+  font-family:helvetica;
+}
+.topnav {
+    background-color: #1A237E;
+    overflow:hidden;
+	position:fixed;
+	z-index:1;
+	width:100%;
+	
+}
+
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 1.5rem;
+	
+	
+}
+.topnav a img{
+	width:20px;
+	height:20px;
+	
+}
+#advertisement{
+	display:grid;
+	grid-template-columns:1fr 1fr 1fr;
+	font-size:16px;
+	color:black;
+	
+	/*text-align:center;*/
+}
+/* nav bar media querries */
+/* If the screen size is 600px wide or less, hide the element */
+@media only screen and (max-width: 1247px) {
+  #Perfumes {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1115px) {
+  #Shoes{
+    display: none;
+  }
+}
+@media only screen and (max-width: 979px) {
+  #Sweater{
+    display: none;
+  }
+}
+@media only screen and (max-width: 868px) {
+  #Jersy{
+    display: none;
+  }
+  }
+@media only screen and (max-width: 807px) {
+  #Shots{
+    display: none;
+  }
+  
+}
+@media only screen and (max-width: 807px) {
+  #Shirts{
+    display: none;
+  }
+  
+}
+@media only screen and (max-width: 807px) {
+  #trousers{
+    display: none;
+  }
+  
+}
+@media only screen and (max-width: 420px) {
+  #NewArrivals{
+    display: none;
+  }
+  
+}
+
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: white;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color:s#1A237E;
+    color: white;
+	
+}
+.topnav a.active img{
+	height: 35px;
+	width:100px;
+	}
+#more_Container{
+	position:absolute;
+	top:70px;
+	left:0px;
+	background-color: #1A237E;
+	z-index:2 !important;
+}
+	
+#more_Container a{
+	display:block;
+	text-decoration: none;
+	text-align: center;
+	width:100%;
+	 color:white;
+    padding: 6px 8px;
+    font-size: 1.5rem;
+	z-index:3 !important;
+}
+#more_Container a:hover{
+	  background-color: white;
+		color: black;
+
+}	
+
+
+
+
+/* Style the search field */
+form.example input[type=text] {
+  padding: 14px 16px;
+  font-size: 18px;
+  float: left;  
+  border-radius:10px;
+ 
+  
+}
+.searchbtn {
+	background-color:#FBC02D;
+	position:absolute;
+	top:0px;
+	right:0px;
+	
+}
+
+
+/* Style the submit button */
+form.example button {
+  float: left;
+ padding: 14px 16px;
+ background: #2196F3; 
+  color: white;
+  font-size: 19px;
+  cursor: pointer;
+  border-radius:10px;
+}
+
+
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/*new arrivals style*/
+.newArrivals{  
+	text-align:center;
+	 font-family:helvetica;
+	font-size:2rem;
+	font-weight:bolder;
+	color:#FBC02D;
+}
+.btn{
+	background-color:#FBC02D !important;
+	
+}
+.btn:hover{
+	background-color:#2C3E50 !important;
+}
+.footer{
+	background-color:#1A237E;
+	padding-top:20px;
+	font-size:20px;
+	
+}
+.footer a{
+	text-decoration:none;
+	color:white;
+	display:inline-block;
+	height:40px;
+	font-family:helvetica;   
+}
+
+.hover:hover{
+	background-color:white;
+	color: blue;
+	
+}
+.heads{
+	color:white;
+}
+
+mark {
+  background-color:#FBC02D;
+  padding:10px;
+  color:white; /* Optional: change text color for contrast */
+  opacity:1;
+  font-family:Verdana;
+}
+
+.card-footer{
+	background-color:#2C3E50 !important;
+	color:white;
+}
+
+.my-hover-card {
+  transition: transform 0.1s ease, box-shadow 0.1s ease;
+}
+
+.my-hover-card:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+/* login / registration form Style*/
+
+.form_container{
+	width:70%;
+	border: 2px solid blue;
+	margin:auto;
+	border-radius:10px;	
+	padding:20px;
+	text-align:center;
+	color:white;
+	background-color: #1A237E;
+	font-family:helvetica;
+	font-weight:bold;
+	font-size:16px;
+}
+#form_caption{
+	text-align:center;
+}
+/*
+input[type=text], input[type=password],input[type=tel],input[type=email]{
+	width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+	display:inline-block;
+}
+input[type=submit]{
+	margin:auto;
+	box-sizing: border-box;
+	padding: 12px 20px;
+	width:40%;
+}
+input:hover{
+	border:2px solid #FBC02D;
+}
+*/
+/* style for success page */
+
+	#success_page_container{
+		text-align:center;
+		
+	}
+		#success_page_container a{
+			text-decoration:none;
+			color:black;
+			border:2px solid #FBC02D;
+			margin-right:100px;
+			padding:20px;
+			margin-top:20px;
+			font-weight:bolder;
+		}
+	#success_page_container a:hover{
+		background-color:#1A237E;
+		color:white;
+	}
+.admHome_Container{
+	
+}
+.page_title{
+	height:50px;
+	background-color:#1A237E;
+	color:white;
+	text-align:center;
+	vertical-align:center;
+	padding-top:5px;
+	font-weight:bolder;
+	font-family:Verdana;
+}
+.thin_separator{
+	border-bottom:5px solid #FBC02D;
+	height:20px;
+	text-align:center;
+}	
+.content_holder{
+	
+	display:grid;
+	grid-template-columns:1fr 4fr;
+	
+}
+.content-left{
+	 background-color:#1A237E;
+	 color:white;
+	text-align:center;
+}
+.content-left div{
+	background-color:#FBC02D;
+	color:white;
+	padding:5px;
+	font-size:24px;
+	margin-top:5px;
+	
+}
+.content-left a{
+	text-decoration:none;
+}
+.content-left div:hover{
+	color:black;
+	background-color:white;
+	cursor:pointer;
+}
+.content-left span{
+	
+}
+.content-right{
+	
+	padding:50px;
+	/*padding-top:50px;*/
+	height:600px;
+	overflow:scroll;
+	
+
+}
+.admin_home_content-right{
+	text-align:center;
+}
+.content-right span{
+	margin:20px;
+	border:2px solid red;
+	padding-top:70px;
+	width:300px;
+	height:150px;
+	display:inline-block;
+	text-align:center;
+	border-radius:10px;
+	color:#FBC02D;
+	font-weight:bold;
+	font-size:24px;
+}
+.content-right span:hover{
+	border:2px solid white;
+	cursor:pointer;
+	
+}
+.logo_holder{
+	height:200px;
+	width:200px;
+	margin:30px;
+	border:2px solid green;
+	border-radius:50%;
+	text-align:center;
+	overflow:clip;
+	
+}
+#edit_profile_logo{
+	height:200px;
+	width:200px;
+	margin:30px;
+	border:2px solid green;
+	border-radius:50%;
+	text-align:center;
+	overflow:clip;
+}
+#cart_counter{
+	background-color: #1A237E;
+}
+#cart_counter:hover{
+	background-color:white;
+	color:white;
+}
+#cart_count{
+	color:red;
+	
+}
+
+/*#2C3E50* cool grey color/
+
+/* test nav bar*/
+
+/*div.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+	position:fixed;
+	z-index:1;
+}
+
+div.scrollmenu a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+	font-size:1.5rem;
+}
+
+div.scrollmenu a:hover {
+    background-color: #777;
+}*/
+/* nav bar proj Style*/
+
+
+
+
