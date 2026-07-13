@@ -1,0 +1,199 @@
+E-commerce Thrift Store Wireframe
+
+This wireframe provides a high-level layout for a thrift clothing e-commerce website, focusing on a clean, user-friendly experience. The design prioritizes showcasing products, simplifying the shopping process, and building a sense of community around sustainable fashion.
+
+Header
+
+    Top Bar:
+
+        Promotional Banner: "Free shipping on orders over $75!" or "New arrivals daily!"
+
+    Main Navigation Bar:
+
+        Logo: Top-left corner, links to the homepage.
+
+        Search Bar: Centered and prominent, with a placeholder like "Search for a vintage tee, a brand, or a style..."
+
+        Navigation Links:
+
+            Shop: Dropdown menu with categories (Men's, Women's, Accessories, Sale).
+
+            New Arrivals: Highlights the latest additions.
+
+            How It Works: Explains the thrifting process, item condition, and sustainability mission.
+
+            About Us: Story of the brand and its values.
+
+        User Icons (Right Side):
+
+            Wishlist/Favorites: A heart icon.
+
+            Account: A person icon, links to user profile, orders, etc.
+
+            Cart: A shopping bag icon with a number indicating items in the cart.
+
+Homepage
+
+    Hero Section:
+
+        Large, full-width banner with high-quality photos of people wearing the clothes.
+
+        Catchy headline: "Find Your Next Favorite Piece" or "Sustainable Style, Unique Finds."
+
+        Call-to-action (CTA) button: "Shop Now" or "Explore Collections."
+
+    Featured Categories:
+
+        Three to four visual cards with images representing key categories like "Vintage Denim," "Cozy Sweaters," or "Summer Dresses."
+
+        Each card has a clear heading and a "Shop Now" button.
+
+    New Arrivals/Just In:
+
+        Horizontal scrollable section displaying 8-12 new product cards.
+
+        Each product card includes:
+
+            Image of the item.
+
+            Item name.
+
+            Price.
+
+            A small badge or icon indicating its condition (e.g., "Like New," "Vintage," "Gently Used").
+
+            Hover effect shows a quick-add-to-cart or wishlist option.
+
+    Why Thrift with Us? (Value Proposition):
+
+        A section with three to four simple icons and short descriptions highlighting the brand's unique selling points:
+
+            Icon 1: "Eco-Friendly" - A leaf icon.
+
+            Icon 2: "Quality Checked" - A checkmark or tag icon.
+
+            Icon 3: "Affordable Style" - A price tag icon.
+
+            Icon 4: "Unique Finds" - A star or diamond icon.
+
+    Customer Testimonials/Social Proof:
+
+        A carousel of quotes from happy customers.
+
+        Can also include an Instagram feed section showing customers wearing the clothes with a branded hashtag.
+
+    Email Subscription:
+
+        Simple form with an input field for email and a "Subscribe" button.
+
+        Headline: "Stay in the Loop on New Drops."
+
+Product Listing Page (PLP)
+
+    Title/Breadcrumbs:
+
+        Page Title: "Men's T-Shirts" or "All Dresses."
+
+        Breadcrumbs: "Home > Shop > Men's > T-Shirts."
+
+    Left Sidebar (Filters):
+
+        Categories: Collapsible lists (e.g., T-Shirts, Jackets, Pants).
+
+        Size: Checkboxes (XS, S, M, L, XL).
+
+        Condition: Radio buttons or checkboxes (New with Tags, Excellent, Gently Used, Vintage).
+
+        Price: Slider or input fields (Min/Max).
+
+        Brand: Searchable list of brands (Levi's, Nike, etc.).
+
+        Color: Swatches of different colors.
+
+    Main Content Area:
+
+        Sort By: Dropdown menu (e.g., "Newest," "Price: Low to High," "Best Match").
+
+        Product Grid:
+
+            Displays products in a clean grid layout (3-4 items per row).
+
+            Each product card is the same as the one on the homepage.
+
+Product Detail Page (PDP)
+
+    Main Image Gallery:
+
+        Large main image on the left.
+
+        Clickable thumbnails below or to the side for additional angles.
+
+    Product Details (Right Side):
+
+        Product Name: Large, bold font.
+
+        Price: Prominently displayed.
+
+        Condition: Badge/label (e.g., "Vintage," "Gently Used").
+
+        Description:
+
+            Bullet points for key details (Material, Size, Measurements).
+
+            Paragraph text for a more detailed story about the item or its features.
+
+        Add to Cart Section:
+
+            Quantity Selector: Simple +/- buttons.
+
+            Add to Cart Button: Large and a contrasting color.
+
+        Shipping & Returns Information:
+
+            Collapsible sections with details on policies.
+
+    You Might Also Like/Related Items:
+
+        Horizontal scrollable section showing similar products to encourage more browsing.
+
+Cart/Checkout
+
+    Cart Page:
+
+        List of Items: Shows each item with an image, name, price, quantity selector, and a "Remove" button.
+
+        Order Summary: Box on the side showing Subtotal, Shipping Cost (if applicable), and Total.
+
+        CTA Button: "Proceed to Checkout."
+
+    Checkout Process (Multi-step):
+
+        Step 1: Contact Information: Fields for name, email, and phone.
+
+        Step 2: Shipping Address: Fields for street, city, state, zip.
+
+        Step 3: Shipping Method: Options with estimated delivery times and costs.
+
+        Step 4: Payment: Fields for credit card details, PayPal, etc.
+
+        Order Review: Final summary of the order before the user confirms.
+
+Footer
+
+    About Section: Short paragraph about the brand.
+
+    Customer Service Links:
+
+        Contact Us
+
+        FAQ
+
+        Shipping & Returns
+
+        Size Guide
+
+    Social Media Icons: Links to Instagram, Pinterest, Facebook, etc.
+
+    Copyright Info: © [Your Brand Name] [Year].
+
+    Newsletter Signup (Repeated from Homepage).

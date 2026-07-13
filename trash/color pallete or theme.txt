@@ -1,0 +1,24 @@
+Palette:
+
+    Dominant Color: Soft Gray (#EAEAEA)
+
+    Secondary Color: Navy Blue (#2C3E50)
+
+    Accent Color: Mustard Yellow (#F1C40F)
+
+    Text/Neutral: Pure White (#FFFFFF)
+	
+	
+	A Serene and Modern Blue Color Theme
+
+	Here is a color theme with a dominant blue hue, designed to be both calming and modern. It uses a range of blues to create depth and contrast, complemented by a soft neutral and a warm accent color to prevent the palette from feeling cold.
+
+    Dominant Blue: #1A237E (Deep Indigo). This is the core of the theme—a rich, dark blue that evokes a sense of stability and sophistication. It's a great choice for backgrounds, large blocks of color, or primary text elements.
+
+    Secondary Blue: #448AFF (Vibrant Sky Blue). This bright, energetic blue provides a lively contrast to the deep indigo. Use it for buttons, headlines, or to highlight important information. It can also serve as a background for sections you want to stand out.
+
+    Tertiary Blue: #90CAF9 (Soft Powder Blue). This light, airy blue acts as a great base or secondary background color. It's perfect for creating a sense of openness and can be used for subtle gradients or as a lighter alternative to the dominant blue.
+
+    Neutral: #ECEFF1 (Light Grayish-White). This off-white color provides a clean, elegant backdrop for the blues. It ensures readability and gives the eye a place to rest. It's ideal for main backgrounds, body text, or as a separator between sections.
+
+    Accent Color: #FBC02D (Golden Yellow). A warm, sunny yellow adds a pop of contrast and energy to the theme. Use it sparingly for call-to-action buttons, icons, or to draw attention to specific details. It adds a touch of optimism and balances the cooler tones of the blues.
