@@ -2,7 +2,7 @@
 a complete ecommerce webapp using php html javascript and mysql
 # Ecommerce Web App
 
-This is an ecommerce web application developed using PHP and MySQL, with Bootstrap for the user interface. The application allows visitors to browse products.
+This is an ecommerce web application developed using PHP and MySQL, with Bootstrap for the user interface. 
 
 ## Getting Started
 
@@ -19,11 +19,11 @@ To get started with this ecommerce web app, follow the steps below:
 1. Clone the repository or download the source code.
 
 2. Import the database into your local MySQL server:
-   - Locate the database file (`database.sql`) in the project folder.
+   - Locate the database file (`odehthriftstore.sql`) in the project folder.
    - Import the database file into your MySQL server using a tool like phpMyAdmin or the MySQL command line.
 
 3. Configure the database connection:
-   - Open the `config.php` file in the project folder.
+   - Open the `includes/dbcon.php` file in the project folder.
    - Update the database credentials (hostname, username, password, and database name) to match your local setup.
 
 4. Start the web server:
