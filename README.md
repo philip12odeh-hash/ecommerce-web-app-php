@@ -41,11 +41,8 @@ To get started with this ecommerce web app, follow the steps below:
   - on entering admin login after deletion you will be prompted to setup your store.
 
 - Product Listing:
-  - Visitors can browse and view a list of available products.
-  - Each product has a description page with detailed information.
-
-- Seller Information:
-  - Product descriptions display seller information.
+  -in the admin you have options to add delete edit and upload products.
+  - You can edit your admin login and profile details from the admin section.
 
 - Admin Interface:
   - The admin has a dedicated interface to manage seller accounts, products, and comments.
