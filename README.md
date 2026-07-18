@@ -37,15 +37,12 @@ To get started with this ecommerce web app, follow the steps below:
 ## Features
 
 - User Registration:
-  - after download and installation customize the app for yourself by deleting the content of the user table
+  - after download and installation customize the app for yourself by deleting the content of the Store_owner table
   - on entering admin login after deletion you will be prompted to setup your store.
 
 - Product Listing:
   - Visitors can browse and view a list of available products.
   - Each product has a description page with detailed information.
-
-- Comment Section:
-  - Users can leave feedback and comments on product description pages.
 
 - Seller Information:
   - Product descriptions display seller information.
