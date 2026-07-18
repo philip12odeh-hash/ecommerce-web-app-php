@@ -10,8 +10,8 @@ To get started with this ecommerce web app, follow the steps below:
 
 ### Prerequisites
 
-- PHP (version >= 7.0)
-- MySQL (version >= 5.7)
+- PHP (version >= 7.0 or higher)
+- MySQL (version >= 5.7 or higher)
 - Web server (e.g., Apache)
 
 ### Installation
