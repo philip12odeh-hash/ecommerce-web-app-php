@@ -37,8 +37,8 @@ To get started with this ecommerce web app, follow the steps below:
 ## Features
 
 - User Registration:
-  - Visitors can register as sellers to post products for sale.
-  - Sellers must wait for admin confirmation before they can start posting products.
+  - after download and installation customize the app for yourself by deleting the content of the user table
+  - on entering admin login after deletion you will be prompted to setup your store.
 
 - Product Listing:
   - Visitors can browse and view a list of available products.
