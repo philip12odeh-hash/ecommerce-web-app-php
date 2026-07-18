@@ -45,8 +45,8 @@ To get started with this ecommerce web app, follow the steps below:
   - You can edit your admin login and profile details from the admin section.
 
 - Admin Interface:
-  - The admin has a dedicated interface to manage seller accounts, products, and comments.
-  - Admin approval is required for new seller registrations and product postings.
+  - you can manage almost any part of the app from your addmin page
+  - your can change the images in the slider, and add remove, edit and upload marchendise
 
 ## Contributing
 
